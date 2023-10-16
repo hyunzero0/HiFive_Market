@@ -62,25 +62,25 @@ Eclipse, Oracle, VSCode, Tomcat
 
 <br>
 
-[✅메인페이지](https://github.com/hyunzero0/HiFive_market/tree/dev/semi-hifive/src/main/java/com/semi/main) : 메인 배너(슬라이드), 메인 카테고리 이동, 인기상품/최신상품, 헤더, 푸터
+[✅메인페이지](https://github.com/hyunzero0/HiFive_Market/tree/master/src/main/java/com/semi/main) : 메인 배너(슬라이드), 메인 카테고리 이동, 인기상품/최신상품, 헤더, 푸터
 
-[회원관리](https://github.com/hyunzero0/HiFive_market/tree/dev/semi-hifive/src/main/java/com/semi/member) : 회원가입(이메일 인증), 로그인, 아이디 찾기, 비밀번호 찾기
+[회원관리](https://github.com/hyunzero0/HiFive_Market/tree/master/src/main/java/com/semi/member) : 회원가입(이메일 인증), 로그인, 아이디 찾기, 비밀번호 찾기
 
-[✅마이페이지](https://github.com/hyunzero0/HiFive_market/tree/dev/semi-hifive/src/main/java/com/semi/mypage) : 마이페이지 메인, 구매내역, 판매내역, 찜 목록, 회원정보 관리, 회원탈퇴, 고객센터 이동
+[✅마이페이지](https://github.com/hyunzero0/HiFive_Market/tree/master/src/main/java/com/semi/mypage) : 마이페이지 메인, 구매내역, 판매내역, 찜 목록, 회원정보 관리, 회원탈퇴, 고객센터 이동
 
-[고객센터](https://github.com/hyunzero0/HiFive_market/tree/dev/semi-hifive/src/main/java/com/semi/sc) : 공지사항, 자주하는 질문, 1:1문의, 신고하기
+[고객센터](https://github.com/hyunzero0/HiFive_Market/tree/master/src/main/java/com/semi/sc) : 공지사항, 자주하는 질문, 1:1문의, 신고하기
 
-[상품등록 및 수정](https://github.com/hyunzero0/HiFive_market/tree/dev/semi-hifive/src/main/java/com/semi/productregist): 상품등록(이미지, 상품명, 카테고리, 지역(카카오 지역 API), 가격, 설명, 연관태그(해시태그)
+[상품등록 및 수정](https://github.com/hyunzero0/HiFive_Market/tree/master/src/main/java/com/semi/productregist): 상품등록(이미지, 상품명, 카테고리, 지역(카카오 지역 API), 가격, 설명, 연관태그(해시태그)
 
-[상품 검색 페이지](https://github.com/hyunzero0/HiFive_market/tree/dev/semi-hifive/src/main/java/com/semi/search): 상품 검색, 실시간 인기 검색어, 최근 본 상품
+[상품 검색 페이지](https://github.com/hyunzero0/HiFive_Market/tree/master/src/main/java/com/semi/search): 상품 검색, 실시간 인기 검색어, 최근 본 상품
 
-[카테고리 검색 페이지](https://github.com/hyunzero0/HiFive_market/tree/dev/semi-hifive/src/main/java/com/semi/productlist): 카테고리/가격/지역 별 상품 목록
+[카테고리 검색 페이지](https://github.com/hyunzero0/HiFive_Market/tree/master/src/main/java/com/semi/productlist): 카테고리/가격/지역 별 상품 목록
 
-[상품설명 페이지](https://github.com/hyunzero0/HiFive_market/tree/dev/semi-hifive/src/main/java/com/semi/productpage): 상품소개, 소개 본문, 판매자 상점정보, 댓글
+[상품설명 페이지](https://github.com/hyunzero0/HiFive_Market/tree/master/src/main/java/com/semi/productpage): 상품소개, 소개 본문, 판매자 상점정보, 댓글
 
-[상점 페이지](https://github.com/hyunzero0/HiFive_market/tree/dev/semi-hifive/src/main/java/com/semi/shop): 판매자 프로필, 온도, 판매상품, 후기
+[상점 페이지](https://github.com/hyunzero0/HiFive_Market/tree/master/src/main/java/com/semi/shop): 판매자 프로필, 온도, 판매상품, 후기
 
-[관리자 페이지](https://github.com/hyunzero0/HiFive_market/tree/dev/semi-hifive/src/main/java/com/semi/admin): 회원관리, 고객센터 관리(고객센터/신고하기),  상품관리
+[관리자 페이지](https://github.com/hyunzero0/HiFive_Market/tree/master/src/main/java/com/semi/admin): 회원관리, 고객센터 관리(고객센터/신고하기),  상품관리
 
 <br>
 
