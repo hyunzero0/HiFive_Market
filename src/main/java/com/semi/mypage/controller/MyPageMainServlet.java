@@ -41,8 +41,6 @@ public class MyPageMainServlet extends HttpServlet {
 		// 성사된 거래수
 		int trade = new MypageProductService().countTrade(userId);
 		
-		// 암호화
-
 		request.setAttribute("mypageMember", m);
 		request.setAttribute("countTrade", trade);
 

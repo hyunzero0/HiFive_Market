@@ -26,7 +26,7 @@
 	   success: (data)=> {
 	      data.forEach((e, i) => {
 	     	 data[0].forEach((e, i) =>{
-	     		 $(".productTitle")[i].innerText = e.product.title;
+	     		  $(".productTitle")[i].innerText = e.product.title;
 	              $(".price")[i].innerText = e.product.price.toLocaleString() + "원";
 	              $(".productImg img").eq(i).attr("src", getContextPath() + "/upload/productRegist/" + e.productFile.imageName);
 	              $(".productLink").eq(i).attr("href", getContextPath() + "/productpage?no=" + e.product.productId);
@@ -38,7 +38,7 @@
 	                 $(".statusBtn")[i].innerText = e.product.productStatus;
 	              };
 	              // 찜목록이 있을 때
-	         	 if(data[2]!=null){
+	         	  if(data[2]!=null){
 	 	        	 data[2].forEach((mywish, i) =>{
 	 	        		 $(".wishCheck").each((i,tag)=>{
 	 	        			if(tag.id==mywish.product.productId){
@@ -46,10 +46,10 @@
 	 	        			} 
 	 	        		 })
 	 	        	 });
-	         	 } 
+	         	  } 
 	     	 });
 	     	 data[1].forEach((e, i) =>{
-	     		 $(".newProductAll .productTitle")[i].innerText = e.product.title;
+	     		  $(".newProductAll .productTitle")[i].innerText = e.product.title;
 	              $(".newProductAll .price")[i].innerText = e.product.price.toLocaleString() + "원";
 	              $(".newProductAll .productImg img").eq(i).attr("src", getContextPath() + "/upload/productRegist/" + e.productFile.imageName);
 	              $(".newProductAll .productLink").eq(i).attr("href", getContextPath() + "/productpage?no=" + e.product.productId);
