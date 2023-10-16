@@ -58,7 +58,7 @@
 	              if(e.product.productStatus == '미개봉'){
 	                    $(".newProductAll .statusBtn")[i].innerText = "NEW " + e.product.productStatus;
 	              } else {
-	                 $(".newProductAll .statusBtn")[i].innerText = e.product.productStatus;
+	                 	$(".newProductAll .statusBtn")[i].innerText = e.product.productStatus;
 	              };
 	           	// 찜목록이 있을 때
 	         	 if(data[2]!=null){
